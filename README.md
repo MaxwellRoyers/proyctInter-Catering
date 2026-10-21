@@ -33,7 +33,7 @@ Toda la documentación generada durante el desarrollo del proyecto se encuentra 
 Dentro de esta carpeta se almacenarán los documentos y archivos editables correspondientes a las diferentes fases del proyecto:
 
 - [**Anteproyecto**](./documentacion/anteproyecto.docx)
-- [**Casos de uso**](./documentacion/casos_uso.docx)
+- [**Casos de uso**](./documentacion/casos_de_uso.docx)
 - [**Definicion del proyecto**](./documentacion/definicion_proyecto.docx)
 - [**Diagramas**](./documentacion/diagramas/)
 - [**Planificación**](./documentacion/planificacion/)
