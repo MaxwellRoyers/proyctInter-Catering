@@ -11,8 +11,8 @@ Aplicación de gestión destinada a la **organización y administración de serv
 - **Oriol Fernandez**
 - **Sergio Garcia**
 - **Roberto Arjona**
-- **Saul**
-- **Alfonso**
+- **Saul Garcia**
+
 
 ### Jefe de equipo
 
