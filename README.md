@@ -16,7 +16,7 @@ Aplicación de gestión destinada a la **organización y administración de serv
 
 ### Jefe de equipo
 
-- **[Nombre Apellido]**
+- **Oriol Fernandez**
 
 ### Cliente
 
